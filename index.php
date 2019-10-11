@@ -57,7 +57,7 @@
             <div class="content">
 
                 <div class="links">
-                    <b>10116219 - Deden Rizki Nuryana</b>
+                    <b>10116219 - DEDEN RIZKI NURYANA</b>
                 </div>
 
                 <br>
